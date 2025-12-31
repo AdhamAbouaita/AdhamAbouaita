@@ -1,1 +1,1 @@
-<img src=https://komarev.com/ghpvc/?username=AdhamAbouaita)></img>
+<img src="https://komarev.com/ghpvc/?username=AdhamAbouaita)"/>

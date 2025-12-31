@@ -61,9 +61,6 @@ Collaborated with a team of **3 developers** to engineer a solution for automati
 
 ---
 
-### ⚡ Fun Fact
-
-I have spent more time coding **[washroyale](https://github.com/AdhamAbouaita/washroyale)** than I have spent actually doing my laundry.
 
 <br />
 

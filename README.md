@@ -64,7 +64,7 @@ Collaborated with a team of **3 developers** to engineer a solution for automati
 
 <br />
 
-[Website](http://wmoj.ca) • [GitHub](https://github.com/AdhamAbouaita)
+
 
 </div>
 

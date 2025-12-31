@@ -7,3 +7,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdhamAbouaita&theme=radical" alt="GitHub Streak" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=AdhamAbouaita"/>

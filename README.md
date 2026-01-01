@@ -67,5 +67,3 @@ Collaborated with a team of **3 developers** to engineer a solution for automati
 
 
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=AdhamAbouaita"/>

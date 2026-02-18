@@ -9,14 +9,13 @@ I’m an Engineer based in **Oakville, Ontario**. I lead a team of developers wo
 ## Featured Projects
 
 ### [WOSS Competitive Programming Platform (WMOJ)](https://wmoj.ca)
-*Project Lead & Lead Developer*
+*Project Lead & Head Engineer*
 
 I lead a team of **7 developers** in building and maintaining the official competitive programming judge for White Oaks Secondary School. This project has been a significant exercise in full-stack engineering and technical leadership.
-* **Infrastructure:** Architected a scalable environment using **Docker**.
-* **DevOps:** Implemented robust CI/CD pipelines via **Jenkins** to ensure seamless deployment and code quality.
+* **Infrastructure:** Architected a scalable environment using **Docker**, ReactJS, NodeJS, NextJS, and PostrgreSQL.
 * **Leadership:** Managed the product roadmap, conducted code reviews, and coordinated the development efforts of a cross-functional team to deliver a reliable platform for the student body.
 
-Currently, we are working on revamping the custom JudgeAPI to significantly bolster its security and scalability, by implementing sandboxing and containerization of user submissions.
+Currently, we are working on revamping the custom Judge API to significantly bolster its security and scalability, by implementing sandboxing and containerization of user submissions.
 
 ### [Tutoring Automation](https://github.com/Scire-apps/tutoring-automation)
 *Developer*

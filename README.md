@@ -1,6 +1,6 @@
 <div align="left">
 
-# Engineer | Project Manager
+# Engineer 
 
 I’m an Engineer based in **Oakville, Ontario**. I lead a team of developers working on **[WMOJ](https://wmoj.ca)**, the official White Oaks Competitive Programming platform. I also write code to automate tutoring workflows for local high-schools. 
 

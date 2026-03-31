@@ -1,1 +1,1 @@
-Aspiring AI Engineer.
+Aspiring AI Researcher & Engineer.
